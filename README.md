@@ -18,6 +18,7 @@
 ##### *mail me :* [jithin.anujose@uwrindia.com]
 ##### *organisation :* **[uwrindia](https://www.uwrindia.com)**
 
+![picShowingNameInitials](notes/initial-letter-logo-jj-j-260nw-572207296 (2).jpg)
 
 <!--
 **jithinanujose-git/jithinanujose-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
